@@ -25,3 +25,14 @@ cd DDOSV1
 pip install -r requirements.txt
 python3 ddos.py
 ```
+
+#Login
+
+Username
+```
+H3C4KEDZ
+```
+Password
+```
+H3C4KEDZ
+```
